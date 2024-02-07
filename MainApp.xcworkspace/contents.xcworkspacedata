@@ -5,6 +5,6 @@
       location = "group:MainApp.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:../FindMyIP/FindMyIP.xcodeproj">
+      location = "group:../../../../Desktop/FindMyIP/FindMyIP.xcodeproj">
    </FileRef>
 </Workspace>
